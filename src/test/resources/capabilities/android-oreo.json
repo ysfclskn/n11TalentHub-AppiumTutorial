@@ -1,0 +1,8 @@
+ {
+  "platformName": "Android",
+  "deviceName": "Pixel",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "avd": "Pixel"
+}
+
